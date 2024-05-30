@@ -65,6 +65,7 @@ Deep Convolutional Generative Adversarial Networks (DCGAN) are trained on plant 
     <img src="styleGAN3/images/512_5.png" width=350 alt="256 X 256 Images">
     <img src="styleGAN3/images/512_6.png" width=350 alt="256 X 256 Images">
 </div>
+
 # Model Architecture
 ## Generator and Discriminator Architecture
 <div style="text-align: center;">
